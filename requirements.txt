@@ -1,7 +1,6 @@
 pandas
 streamlit
 numpy
-os 
 nfl_data_py
 plotly
 sklearn
